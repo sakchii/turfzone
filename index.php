@@ -79,11 +79,11 @@
   <h2>About The Project And Us</h2>
 
   <div class="developer developer-left">
-    <img src="turf/manav1.jpeg" alt="Manavpreet Singh">
+    <img src="turf/sakchi.jpeg" alt="Sakchi Verma">
     <div class="developer-text">
-      <h3>Manavpreet Singh</h3>
+      <h3>Sakchi Verma</h3>
       <p>
-        I am Manavpreet Singh, a BCA final semester student and one of the developers of
+        I am Sakchi Verma, a BCA final semester student and one of the developers of
         this project. This website was created as part of our final semester project
         to solve a real-world problem faced by sports enthusiasts in the tri-city area
         of Chandigarh, Mohali, and Panchkula.
@@ -92,28 +92,14 @@
         Many turfs in these cities do not provide a proper online booking system,
         which makes it difficult for users to check availability and book slots.
         Through this project, we developed a centralized turf booking platform
-        where users can explore available turfs and book them easily.
-      </p>
-    </div>
-  </div>
-
-  <div class="developer developer-right">
-    <img src="turf/sakchi.jpeg" alt="Sakchi Verma">
-    <div class="developer-text">
-      <h3>Sakchi Verma</h3>
-      <p>
-        I am Sakchi Verma, a BCA final semester student and one of the developer of this project.
-        Our goal while developing this website was to simplify the turf booking
-        process for players and sports enthusiasts.
-      </p>
-      <p>
-        This platform allows users to explore different football and cricket turfs,
+        where users can explore available turfs and book them easily. This platform allows users to explore different football and cricket turfs,
         view pricing details, and reserve their preferred turf slots. The project
         demonstrates how web technologies can be used to build a centralized
         sports facility booking system.
       </p>
     </div>
   </div>
+
 </section>
 
 <section id="sports" class="sports-section">
@@ -173,7 +159,7 @@
 </section>
 
 <footer id="contact">
-  <p>© 2026 TurfZone | Football Turf Booking Platform | singhmanavpreet15@gmail.com | vermasakchi20@gmail.com | +91 76529 06925 | +91 9779203924</p>
+  <p>© 2026 TurfZone | Football Turf Booking Platform | vermasakchi20@gmail.com | +91 9779203924</p>
 </footer>
 
 <script>
