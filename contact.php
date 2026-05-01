@@ -82,12 +82,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <h2>📞 Contact Information</h2>
 
                 <p><strong>Email:</strong></p>
-                <p>📧 singhmanavpreet15@gmail.com</p>
                 <p>📧 vermasakchi20@gmail.com</p>
+                <p>📧 singhmanavpreet15@gmail.com</p>
 
                 <p><strong>Phone:</strong></p>
-                <p>📱 +91 76529 06925</p>
                 <p>📱 +91 9779203924</p>
+                <p>📱 +91 76529 06925</p>
             </div>
 
             <div class="card">
