@@ -4,26 +4,26 @@ TurfZone is a web-based sports turf booking platform developed using PHP, MySQL,
 
 🚀 Features
 
-User Features
-User Registration and Login
-Secure Session Management
-Browse Available Turfs
-View Sports Events
-Book Turf Slots
-Online Payment Integration
-Profile Management
-Contact Form Support
-Sports Shop Section
-Admin Features
-Admin Login
-View All Bookings
-Manage User Reservations
-Monitor Turf Availability
-Booking System
-Date-wise Slot Selection
-Automatic Display of Booked/Available Slots
-Prevents Double Booking
-Booking Confirmation Process
+User Features,
+User Registration and Login,
+Secure Session Management,
+Browse Available Turfs,
+View Sports Events,
+Book Turf Slots,
+Online Payment Integration,
+Profile Management,
+Contact Form Support,
+Sports Shop Section,
+Admin Features,
+Admin Login,
+View All Bookings,
+Manage User Reservations,
+Monitor Turf Availability,
+Booking System,
+Date-wise Slot Selection,
+Automatic Display of Booked/Available Slots,
+Prevents Double Booking,
+Booking Confirmation Process.
 
 🛠️ Technologies Used
 
@@ -63,7 +63,7 @@ TurfZone/
 
 The purpose of TurfZone is to provide a simple and efficient platform for sports enthusiasts to:
 
-Find available turfs
-Reserve slots online
-Manage bookings easily
-Improve sports facility accessibility
+Find available turfs,
+Reserve slots online,
+Manage bookings easily,
+Improve sports facility accessibility.
